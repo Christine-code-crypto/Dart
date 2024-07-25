@@ -10,3 +10,10 @@ void main() {
   print("My name is $name");
 }
 
+//Inline comment in Dart
+
+/* Multiple
+line 
+comment*/
+
+///Documentation

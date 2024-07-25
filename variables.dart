@@ -44,4 +44,20 @@ main() {
 
   weakVariable = null;
   print(weakVariable);
+
+  //RAW STRING
+  var s = r"In a raw string, not even \n gets special treatment";
+  print(s);
+
+  var age = 35;
+  print("My age is $age");
+
+  ''' this is
+  multiline 
+  string
+  ''';
+
+  """ This is also
+  multiline string
+  """;
 }
