@@ -1,6 +1,6 @@
 void main() {
   int x = 10;
-  var result = x % 2 == 0 ? "Even":"Odd";
+  var result = x % 2 == 1 ? "Even":"Odd";
   print(result);
 }
 
